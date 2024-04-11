@@ -19,6 +19,6 @@ aes(x = year, y = v2x_corr)) +
   labs(x = "year", 
        y = "Political Corruption Index",
        color = "Continent",
-       title = "",
+       title = "Changes in the Poilitical Corruption Index in Mexico over time",
        subtitle = "Year / Index Development",
        caption = "V_Dem_CY_Full_Others_v14") 
